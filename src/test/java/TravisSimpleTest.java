@@ -6,7 +6,7 @@ public class TravisSimpleTest {
     public void simpleTest(){
         //arrange
         //act
-        boolean check = false;
+        boolean check = true;
         //assert
         Assert.assertTrue(true);
     }
